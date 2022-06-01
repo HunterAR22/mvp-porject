@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+.USERNAME {
+    height: 30px;
+    background-color: #B2D6FF;    /* Medium blue */
+  }
+  
+  .DATE {
+    float: left;                  /* Add this */
+    width: 200px;
+    height: 780px;
+    background-color: #F09A9D;
+  }
+  
+  .content {
+    height: 780px;
+    background-color: #F5CF8E;    /* Yellow */
+  }
+
+  .page {
+    width: 900px;
+    margin: 0 auto;
+    border: 1px solid red;  /* Add this */
+  }
+
+  #entry {
+height: 700px;
+word-wrap: 50;
+  }
+.entry{
+  line-height: 1000px;
+
+}
+
+.journal_entry{
+  height: 10px;
+}
+  .content{
+    line-height: 20px;
+  }
+
